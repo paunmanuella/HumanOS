@@ -54,12 +54,6 @@ A personalized AI interaction layer that helps them:
 
 * identify and understand emotions
 * explore different perspectives
-* navigate conflict
-* develop critical thinking
-* understand social situations
-* practice boundaries
-* take responsibility
-* turn reflection into real-world action
 
 The goal isn't to give the child the answer.
 
@@ -68,14 +62,6 @@ The goal is to help them **learn how to think.**
 ### For the parent
 
 A privacy-first layer that can surface meaningful emotional patterns without exposing private conversations by default.
-
-Instead of:
-
-> “Your child said this at 16:42.”
-
-The parent might see:
-
-> **“Frustration has been elevated this week. Consider checking in.”**
 
 The objective is not surveillance.
 
